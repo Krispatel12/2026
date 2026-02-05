@@ -1,0 +1,4 @@
+﻿src/features/organization/pages/Registration.tsx(1325,17): error TS1005: ')' expected.
+src/features/organization/pages/Registration.tsx(1337,6): error TS17008: JSX element 'div' has no corresponding closing tag.
+src/features/organization/pages/Registration.tsx(1579,1): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/features/organization/pages/Registration.tsx(1582,1): error TS1005: '</' expected.

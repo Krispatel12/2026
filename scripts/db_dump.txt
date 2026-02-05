@@ -1,0 +1,8 @@
+--- ALL USERS ---
+User: krishpatel123451@gmail.com | ID: 6984237a7c0c7297c6690508 | Name: Krish Patel
+
+--- ALL ORGANIZATIONS ---
+Org: Mukeshbhai | OwnerID: 69843a9eb985e85a0e8483da | Slug: mukeshbhai
+
+--- ALL PROJECTS ---
+Project: undefined | CreatedBy: 698432b4dc797f1d7352e3ff
